@@ -1,5 +1,5 @@
 ---
-title: Delete Account
+title: Delete Your Account
 ---
 # Delete Your Account
 
