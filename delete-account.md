@@ -1,7 +1,7 @@
 # Delete Your Account
 
-**App:** [App name]
-**Developer:** [Your name]
+**App:** [PARSLIA]
+**Developer:** [A'arifah Alabi]
 
 ## In the app (fastest)
 
