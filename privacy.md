@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**App:** [DinnaTick]
+**App:** [PARSLIA]
 **Developer:** [A'arifah Alabi]
-**Contact:** [your support email]
+**Contact:** [aarifahalabi@gmail.com]
 **Effective date:** [12 November, 2026]
 
-[Dinna Tick] helps you decide what to cook for dinner and lets you share food ideas with other users. This policy explains what we collect, why, and the choices you have.
+[PARSLIA] helps you decide what to cook for dinner and lets you share food ideas with other users. This policy explains what we collect, why, and the choices you have.
 
 ## What we collect
 
@@ -65,4 +65,4 @@ We may update this policy. The effective date above shows the latest version. Si
 ## Contact
 
 [A'arifaj Alabi]
-[your support email]
+[aarifahalabi@gmail.com]
