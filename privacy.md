@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**App:** [App name]
-**Developer:** [Your name]
+**App:** [DinnaTick]
+**Developer:** [A'arifah Alabi]
 **Contact:** [your support email]
-**Effective date:** [date]
+**Effective date:** [12 November, 2026]
 
-[App name] helps you decide what to cook for dinner and lets you share food ideas with other users. This policy explains what we collect, why, and the choices you have.
+[Dinna Tick] helps you decide what to cook for dinner and lets you share food ideas with other users. This policy explains what we collect, why, and the choices you have.
 
 ## What we collect
 
@@ -64,5 +64,5 @@ We may update this policy. The effective date above shows the latest version. Si
 
 ## Contact
 
-[Your name]
+[A'arifaj Alabi]
 [your support email]
