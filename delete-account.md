@@ -1,3 +1,6 @@
+---
+title: Delete Account
+---
 # Delete Your Account
 
 **App:**[PARSLIA]
