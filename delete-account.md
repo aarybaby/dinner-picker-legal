@@ -3,8 +3,8 @@ title: Delete Your Account
 ---
 # Delete Your Account
 
-**App:**[PARSLIA]
-**Developer:** [A'arifah Alabi]
+**App:**PARSLIA
+**Developer:** A'arifah Alabi
 
 ## In the app (fastest)
 
@@ -16,7 +16,7 @@ Your account is deleted immediately.
 
 ## Without the app
 
-If you can't open the app, email [your support email] from the address linked to your account with the subject "Delete my account". We will delete your account and data within [30] days and confirm by email.
+If you can't open the app, email support@parslia-app.com from the address linked to your account with the subject "Delete my account". We will delete your account and data within [30] days and confirm by email.
 
 ## What is deleted
 
@@ -29,4 +29,4 @@ Food preferences are saved only on your device. Uninstalling the app or clearing
 
 ## What may remain
 
-Copies in system backups and server logs may remain briefly until they are overwritten in the normal course of operations. [Edit if this isn't accurate.]
+Copies in system backups and server logs may remain briefly until they are overwritten in the normal course of operations. 
