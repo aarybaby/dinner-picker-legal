@@ -16,7 +16,7 @@ You can ask for some of your data to be deleted without deleting your account.
 
 ## By email
 
-For anything else, such as removing likes, blocks, or reports, email aarifahalabi@gmail.com from the address on your account with the subject "Delete some of my data" and tell us what to remove. We will reply within 30 days.
+For anything else, such as removing likes, blocks, or reports, email support@parslia-app.com from the address on your account with the subject "Delete some of my data" and tell us what to remove. We will reply within 30 days.
 
 ## Want to delete your whole account instead?
 
