@@ -5,8 +5,8 @@ title: Privacy Policy
 
 **App:** PARSLIA
 **Developer:** A'arifah Alabi
-**Contact:** aarifahalabi@gmail.com
-**Effective date:** November 12th, 2026
+**Contact:** support@parslia-app.com
+**Effective date:** November 19th, 2026
 
 PARSLIA helps you decide what to cook for dinner and lets you share food ideas with other users. This policy explains what we collect, why, and the choices you have.
 
