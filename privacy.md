@@ -3,12 +3,12 @@ title: Privacy Policy
 ---
 # Privacy Policy
 
-**App:** [PARSLIA]
-**Developer:** [A'arifah Alabi]
-**Contact:** [aarifahalabi@gmail.com]
-**Effective date:** [November 12th, 2026]
+**App:** PARSLIA
+**Developer:** A'arifah Alabi
+**Contact:** aarifahalabi@gmail.com
+**Effective date:** November 12th, 2026
 
-[PARSLIA] helps you decide what to cook for dinner and lets you share food ideas with other users. This policy explains what we collect, why, and the choices you have.
+PARSLIA helps you decide what to cook for dinner and lets you share food ideas with other users. This policy explains what we collect, why, and the choices you have.
 
 ## What we collect
 
@@ -41,13 +41,13 @@ We do not sell your personal information. We may disclose information if require
 ## Your choices and rights
 
 - **Edit or clear preferences:** change them any time under Preferences in the app, or clear the app's data.
-- **Delete your account:** in the app, go to Home → Account → Delete my account. This permanently removes your account, posts, comments, and likes. You can also request deletion at [your site]/delete-account.
+- **Delete your account:** in the app, go to Home → Account → Delete my account. This permanently removes your account, posts, comments, and likes. You can also request deletion at https://aarybaby.github.io/dinner-picker-legal/?utm_source=chatgpt.com/delete-account.
 - **Block and report:** you can block users and report posts or comments.
-- Depending on where you live, you may have rights to access, correct, or delete your data. Contact us at [your support email].
+- Depending on where you live, you may have rights to access, correct, or delete your data. Contact us at support@parslia-app.com.
 
 ## How long we keep data
 
-Account and forum data is kept until you delete your account. When you delete it, your data is removed from our database. Backups and logs may keep copies for a limited time before they are overwritten. [Adjust if you know your providers' retention periods.]
+Account and forum data is kept until you delete your account. When you delete it, your data is removed from our database. Backups and logs may keep copies for a limited time before they are overwritten. 
 
 ## Security
 
@@ -67,5 +67,5 @@ We may update this policy. The effective date above shows the latest version. Si
 
 ## Contact
 
-[A'arifah Alabi]
-[aarifahalabi@gmail.com]
+[PARSLIA]
+[support@parslia-app.com]
