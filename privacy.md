@@ -41,7 +41,7 @@ We do not sell your personal information. We may disclose information if require
 ## Your choices and rights
 
 - **Edit or clear preferences:** change them any time under Preferences in the app, or clear the app's data.
-- **Delete your account:** in the app, go to Home → Account → Delete my account. This permanently removes your account, posts, comments, and likes. You can also request deletion at https://aarybaby.github.io/dinner-picker-legal/?utm_source=chatgpt.com/delete-account.
+- **Delete your account:** in the app, go to Home → Account → Delete my account. This permanently removes your account, posts, comments, and likes. You can also request deletion at https://aarybaby.github.io/dinner-picker-legal/delete-account.
 - **Block and report:** you can block users and report posts or comments.
 - Depending on where you live, you may have rights to access, correct, or delete your data. Contact us at support@parslia-app.com.
 
