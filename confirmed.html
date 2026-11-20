@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Email confirmed | PARSLIA</title>
+</head>
+<body>
+  <main>
+    <h1 id="title">Email confirmed</h1>
+    <p id="message">Your email is confirmed. Open the PARSLIA app and sign in.</p>
+    <a id="open" href="#" style="display:none">Open PARSLIA</a>
+    <p id="fallback" style="display:none">
+      On a phone with the app installed, tap the button above. Otherwise, open the app yourself and sign in.
+    </p>
+  </main>
+  <script>
+    (function () {
+      var hash = window.location.hash.replace(/^#/, '');
+      var params = new URLSearchParams(hash);
+
+      if (params.get('error')) {
+        document.getElementById('title').textContent = 'This link did not work';
+        document.getElementById('message').textContent =
+          params.get('error_code') === 'otp_expired'
+            ? 'This link has expired or was already used. Open the app and try signing in. If that fails, sign up again to get a new email.'
+            : 'Something went wrong. Open the app and try signing in, or contact support.';
+      } else if (params.get('access_token') && params.get('refresh_token')) {
+        var link = document.getElementById('open');
+        link.href = 'parslia://auth/callback#' + hash;
+        link.style.display = 'inline-block';
+        document.getElementById('fallback').style.display = 'block';
+      }
+
+      // Tokens now live only in the button; remove them from the address bar and history
+      history.replaceState(null, '', window.location.pathname);
+    })();
+  </script>
+</body>
+</html>
