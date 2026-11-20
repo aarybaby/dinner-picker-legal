@@ -55,7 +55,7 @@ Data is transmitted over encrypted connections, and access to the database is re
 
 ## Children
 
-The app is not directed at children under 13, and we do not knowingly collect their personal information. If you believe a child has created an account, contact us and we will delete it.
+The app is not directed at children under 13, and we do not knowingly collect their personal information. If you believe a child has created an account, contact us and we will delete it. This app is intended for users 18 and oolder
 
 ## Community content
 
