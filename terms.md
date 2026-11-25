@@ -7,7 +7,7 @@ title: Terms of Service
 **App:** PARSLIA
 **Developer:** A'arifah Alabi
 **Contact:** support@parslia-app.com
-**Effective date:** November 20, 2026
+**Effective date:** November 25, 2026
 
 These Terms of Service ("Terms") are an agreement between you and the developer of PARSLIA. Please read them before using the app.
 
