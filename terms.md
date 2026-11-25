@@ -17,7 +17,7 @@ By downloading or using PARSLIA, or by creating an account, you agree to these T
 
 ## 2. Who can use PARSLIA
 
-You must be at least 18 years old to use PARSLIA.
+You must be at least 13 years old to use PARSLIA.
 
 ## 3. What PARSLIA does
 
